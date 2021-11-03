@@ -1,3 +1,15 @@
 Link para download do Git: https://git-scm.com/downloads
+typora - editor de arquivos markdown
 
 O Git Bash é um terminal extentido para otimizar o uso do Git
+
+git init - para iniciar um repositório
+git add - Para acumular as modificações que fez
+git commit - para empacotar essas modificações
+git push - para enviar as modificações para outro repositório
+git pull - para puxar as ultimas modificações desse repositorio
+git status - diz o status do arquivo
+
+ls -a - mostra arquivos ocultos
+
+
